@@ -1,0 +1,46 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+
+.footer_text{
+    line-height: 30px;
+    color: rgb(187, 187, 187);
+}
+
+.footer_quick-links ul li{
+    background: transparent !important;
+
+}
+.footer_quick-links span i{
+   color: rgb(187, 187, 187);
+
+}
+.footer_quick-links ul li a{
+    color: rgb(187, 187, 187);
+
+}
+.quick_links-title{
+    margin-top: 30px;
+    color:  rgb(187, 187, 187);
+    font-size: 1.1rem;
+
+}
+.footer_contact li span, .footer_contact li p{
+color: rgb(187, 187, 187);
+}
+
+.footer_contact li span{
+    font-size: 1.2rem;
+}
+
+.footer_contact li p{
+    font-size: 0.9rem;
+}
+.footer_copyright{
+    color: rgb(187, 187, 187);
+    font-size: 0.9rem;
+    margin-top: 50px;
+    text-align: center;
+}
